@@ -14,6 +14,6 @@ The jupyter notebook is the only code file that has all the code.
 #How To Interact With Your Project
 Fork the repository and contribute on other ideas to analyze for more user interactions and develop recommendation engine.
 
-#Licensing, Authors, Acknowledgements
+#Licensing, Acknowledgements
 
 
