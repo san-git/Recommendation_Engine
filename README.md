@@ -1,6 +1,6 @@
 # Recommendation_Engine
 
-In this project analyze user interactions of articles adn develop recommendation engine for users about new articles that they will like.
+In this project analyze user interactions of articles and develop recommendation engine for users about new articles that they will like.
 
 #Installation
 No extra libraries needs to be installed as all the libraries used here comes up wwith the Anaconda distribution with Python3.6.
